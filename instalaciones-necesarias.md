@@ -28,10 +28,6 @@ En esta clase preparamos el entorno de desarrollo necesario para el curso de **A
   - 🔗 [Descargar Node.js](https://nodejs.org/es)
   - ⚠️ **Importante**: Descargar la versión LTS más reciente
 
-### 5. Cliente API
-- **Postman** - Para probar APIs durante el desarrollo
-  - 🔗 [Descargar Postman](https://www.postman.com/downloads/)
-
 ---
 
 ## 🔌 Extensiones de VS Code
