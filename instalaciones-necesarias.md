@@ -2,13 +2,6 @@
 
 [⬅️ Regresar al índice](../README.md)
 
----
-
-## 🎯 Objetivo
-En esta clase preparamos el entorno de desarrollo necesario para el curso de **Angular 20 con Firebase** y la integración con **OpenAI API** para crear un chat inteligente.
-
----
-
 ## 🛠️ Software Requerido
 
 ### 1. Navegador Web
@@ -46,14 +39,7 @@ En esta clase preparamos el entorno de desarrollo necesario para el curso de **A
 
 ## 📚 Documentación Oficial
 
-Durante el curso utilizaremos las siguientes referencias:
-
-| Tecnología | Enlace | Descripción |
-|------------|--------|-------------|
 | **Angular** | [angular.dev](https://angular.dev/) | Documentación oficial de Angular |
-| **Firebase** | [Firebase Docs](https://firebase.google.com/docs?gclsrc=aw.ds) | Guías y referencias de Firebase |
-| **TypeScript** | [typescriptlang.org](https://www.typescriptlang.org/) | Documentación de TypeScript |
-| **OpenAI API** | [OpenAI API Reference](https://platform.openai.com/docs/api-reference/introduction) | Referencia de la API de OpenAI |
 
 ---
 
